@@ -37,7 +37,7 @@ dome代码地址 [https://github.com/zhaosheng808/echarts-demo](https://github.c
 [DATAV](https://datav.aliyun.com/tools/atlas/#&lat=30.332329214580188&lng=106.72278672066881&zoom=3.5)
 
 省市区 各级地图展示
-![./1/1.png](https://image-static.segmentfault.com/276/863/2768630788-5f969f98334b4)
+![https://image-static.segmentfault.com/276/863/2768630788-5f969f98334b4](./1/1.png)
 
 ![./1/2.png](https://image-static.segmentfault.com/361/365/3613656676-5f96a1f90cd20)
 
